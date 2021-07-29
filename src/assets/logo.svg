@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206.687" height="97.514" viewBox="0 0 206.687 97.514">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f4c44c"/>
+      <stop offset="1" stop-color="#ea674a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-151.179 -54.226)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="41.982" cy="41.982" r="41.982" transform="translate(157.954 61)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="36.385" cy="36.385" r="36.385" transform="translate(163.631 66.598)" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="170.477" height="40.225" transform="translate(183.977 83.093)" fill="#fff"/>
+    <text id="Timeless" transform="translate(173.616 112.768)" fill="#454545" font-size="29" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.1em"><tspan x="0" y="0">TIMELESS</tspan></text>
+  </g>
+</svg>
